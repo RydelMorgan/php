@@ -2,6 +2,6 @@
 
 
     echo "Hello World";
-    echo "Welcom my friends";
+    echo "Welcome my friends";
 
 ?>
